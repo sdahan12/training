@@ -1,4 +1,4 @@
-# training
+# Digital training
 
 Personal training for our staff
 python - https://www.kaggle.com/learn
